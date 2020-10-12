@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'Netlify CMS + VuePress',
-  description: 'Netlify + VuePress',
+  title: 'monopo Docs 📝',
+  description: 'Knowledge base for monopo',
   themeConfig: {
     docsDir: 'docs',
-    repo: 'andreliem/vuepress-netlify-cms',
+    repo: 'monopoinc/vuepress-netlify-cms',
     sidebar: [
       '/',
       '/welcome',
